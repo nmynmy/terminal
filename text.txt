@@ -1,0 +1,6 @@
+World!
+0
+C:\Users\nmy\PycharmProjects\terminal\text.txt
+World!
+0
+C:\Users\nmy\PycharmProjects\terminal\text.txt
